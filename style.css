@@ -120,7 +120,7 @@ ul li a {
 @media (min-width: 1000px) {
     body {
         background-image: url('images/bg-desktop.svg');
-
+        background-size: cover;
     }
 
     header,
